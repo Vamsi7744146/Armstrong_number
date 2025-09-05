@@ -1,2 +1,3 @@
 # Armstrong_number
-Python Description
+Python Description,
+Armstrong number is a number that is equal to the sum of its own digits each raised to the power of the number of digits.
